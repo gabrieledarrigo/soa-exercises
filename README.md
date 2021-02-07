@@ -6,6 +6,7 @@ Some WSDL, SOAP and REST exercises for the Service Oriented Architecture course 
 
 - [15-09-2020](./exercises/2020-09-15.MD)
 - [12-02-2019](./exercises/2019-02-12.MD)
+- [30-03-2019](./exercises/2019-03-30.MD)
 - [18-07-2019](./exercises/2019-07-18.MD)
 - [15-01-2018](./exercises/2018-01-15.MD)
 
