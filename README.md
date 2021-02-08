@@ -2,7 +2,7 @@
 
 Some WSDL, SOAP and REST exercises for the Service Oriented Architecture course of ["Sicurezza dei Sistemi e delle Reti Informatiche"](https://www.unimi.it/it/corsi/corsi-di-laurea/sicurezza-dei-sistemi-e-delle-reti-informatiche).
 What, WSDL and SOAP? In 2021? Really?  
-Yep, life's hard boy... 😎
+Yep, life's hard, dude.. 😎
 
 ## Exercises and examples 📒
 
