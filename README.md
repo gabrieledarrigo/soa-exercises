@@ -11,7 +11,7 @@ Yep, life's hard, dude.. 😎
 - [30-03-2019](./exercises/2019-03-30.MD)
 - [18-07-2019](./exercises/2019-07-18.MD)
 - [15-01-2018](./exercises/2018-01-15.MD)
-- [01-06-2011](./exercises/2018-01-15.MD)
+- [01-06-2011](./exercises/2011-06-01.MD)
 
 ### References and resources 🔖📚
 
